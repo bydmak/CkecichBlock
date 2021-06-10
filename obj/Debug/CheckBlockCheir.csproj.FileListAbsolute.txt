@@ -18,3 +18,13 @@ D:\C#\CheckBlockCheir\obj\Debug\CheckBlockCheir.csproj.GenerateResource.cache
 D:\C#\CheckBlockCheir\obj\Debug\CheckBlockCheir.csproj.CoreCompileInputs.cache
 D:\C#\CheckBlockCheir\obj\Debug\CheckBlockCheir.exe
 D:\C#\CheckBlockCheir\obj\Debug\CheckBlockCheir.pdb
+D:\C#\CkecichBlock\bin\Debug\CheckBlockCheir.exe.config
+D:\C#\CkecichBlock\bin\Debug\CheckBlockCheir.exe
+D:\C#\CkecichBlock\bin\Debug\CheckBlockCheir.pdb
+D:\C#\CkecichBlock\obj\Debug\CheckBlockCheir.csproj.AssemblyReference.cache
+D:\C#\CkecichBlock\obj\Debug\CheckBlockCheir.Form1.resources
+D:\C#\CkecichBlock\obj\Debug\CheckBlockCheir.Properties.Resources.resources
+D:\C#\CkecichBlock\obj\Debug\CheckBlockCheir.csproj.GenerateResource.cache
+D:\C#\CkecichBlock\obj\Debug\CheckBlockCheir.csproj.CoreCompileInputs.cache
+D:\C#\CkecichBlock\obj\Debug\CheckBlockCheir.exe
+D:\C#\CkecichBlock\obj\Debug\CheckBlockCheir.pdb
