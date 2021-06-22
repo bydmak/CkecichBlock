@@ -32,7 +32,7 @@ namespace CheckBlockCheir
             }
 
             string[] lines = File.ReadAllLines(OPF.FileName);
-            //StreamWriter f = new StreamWriter("test.txt", true);
+            StreamWriter f = new StreamWriter("test.txt", true);
             foreach (string i in lines)
             {
                // string pattern = @"\w[name]\w";
@@ -44,11 +44,11 @@ namespace CheckBlockCheir
                 string str = i;
                 string str1 = "name";
                 if (str.Contains(str1))
-                   // f.WriteLine(str, str1);
+                    f.WriteLine(str, str1);
                     Console.WriteLine(str);
 
 
-                lastname = str.Substring(str.IndexOf("name"));
+                lastname = str.Substring(str.IndexOf("name")+5 ,34);
                 //f.WriteLine(lastname);
             }
 
